@@ -1,2 +1,0 @@
-# ratiocination
-Begin app
